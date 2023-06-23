@@ -6,3 +6,22 @@
 .info-text{
   text-align: center;
 }
+
+mat-spinner{
+  margin: auto;
+}
+
+.post-image{
+  /* height: 100%;
+  width: 100%; */
+}
+
+.post-image img{
+  height: 300px;
+  width: 200px;
+  box-shadow: 1px 1px 5px rgba(0,0,0,0.5);
+}
+
+mat-paginator{
+  margin-top: 1px;
+}
